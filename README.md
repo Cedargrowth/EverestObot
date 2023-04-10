@@ -24,7 +24,11 @@ http://josukclothing.com/
 https://www.cedargrowthconsult.com
 https://www.swiftpaymentltd.com 
 https://enmasse-group.com 
-https://wordcentre.org 
+http://www.peaklinktechnologies.com/
+https://www.velltant.com/
+https://wordcentre.org
+http://kingsmencs.com/
+http://pelicanconstructionltd.com/
 https://dataprotectionacademy.net 
 https://www.reho-bothhealthcare.com 
 https://www.hancockril.com
