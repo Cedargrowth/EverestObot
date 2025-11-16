@@ -18,10 +18,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...email: everest.o@outlook.com
 Here's a list of web Projects I've worked on in the past. apologies if some are offline. 
 WEB PROJECTS
+http://dedems.ng/
+https://www.cedargrowthconsult.com
 https://ezzylogistics.com/login
 https://panddhealthcare.co.uk/
 http://josukclothing.com/ 
-https://www.cedargrowthconsult.com
 https://www.swiftpaymentltd.com 
 https://enmasse-group.com 
 http://www.peaklinktechnologies.com/
@@ -34,7 +35,6 @@ https://www.reho-bothhealthcare.com
 https://www.hancockril.com
 https://iarsac.org/
 https://ordaland.com/
-http://dedems.ng/
 http://trafficmonitor.ng/login.php
 https://play.google.com/store/apps/details?id=com.ezzy.customer
 https://play.google.com/store/apps/details?id=com.trafficmonitor
