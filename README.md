@@ -34,6 +34,10 @@ http://trafficmonitor.ng/login.php
 https://play.google.com/store/apps/details?id=com.ezzy.customer
 https://play.google.com/store/apps/details?id=com.trafficmonitor
 https://rccgsolidrock.org.uk/
+https://portal.trinityuniversity.edu.ng/applicants_login.php
+https://mcu.edu.ng/index.php/staff-portal/
+https://metropolitanconstruction.ng/
+https://bsaauditng.com/
 
 
 
